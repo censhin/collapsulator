@@ -1,0 +1,679 @@
+{
+    "wormholes": [
+        {
+            "wormholeType": "A239",
+            "leadsTo": "Lowsec",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 8,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "A641",
+            "leadsTo": "Highsec",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 1000000000,
+            "massRegeneration": 0,
+            "classification": 7,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "A982",
+            "leadsTo": "Class 6 W-space",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 6,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "B041",
+            "leadsTo": "Class 6 W-space",
+            "totalMassAllowed": 5000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 500000000,
+            "classification": 6,
+            "maxStableTime": 48
+        },
+        {
+            "wormholeType": "B274",
+            "leadsTo": "Highsec",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 7,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "B449",
+            "leadsTo": "Highsec",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 1000000000,
+            "massRegeneration": 0,
+            "classification": 7,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "B520",
+            "leadsTo": "Highsec",
+            "totalMassAllowed": 5000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 500000000,
+            "classification": 7,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "C008",
+            "leadsTo": "Class 5 W-Space",
+            "totalMassAllowed": "Unknown",
+            "maxIndividualMass": 5000000,
+            "massRegeneration": "Regenerates over time",
+            "classification": 1,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "C125",
+            "leadsTo": "Class 2 W-Space",
+            "totalMassAllowed": 1000000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 2,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "C140",
+            "leadsTo": "Lowsec",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 1350000000,
+            "massRegeneration": 0,
+            "classification": 8,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "C247",
+            "leadsTo": "Class 3 W-space",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 3,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "C248",
+            "leadsTo": "Nullsec (0.0)",
+            "totalMassAllowed": 5000000000,
+            "maxIndividualMass": 1800000000,
+            "massRegeneration": 500000000,
+            "classification": 9,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "C391",
+            "leadsTo": "Lowsec",
+            "totalMassAllowed": 5000000000,
+            "maxIndividualMass": 1800000000,
+            "massRegeneration": 500000000,
+            "classification": 8,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "D364",
+            "leadsTo": "Class 2 W-space",
+            "totalMassAllowed": 1000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 2,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "D382",
+            "leadsTo": "Class 2 W-space",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 2,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "D792",
+            "leadsTo": "Highsec",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 1000000000,
+            "massRegeneration": 0,
+            "classification": 7,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "D845",
+            "leadsTo": "Highsec",
+            "totalMassAllowed": 5000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 500000000,
+            "classification": 7,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "E004",
+            "leadsTo": "Class 1 W-Space",
+            "totalMassAllowed": "Unknown",
+            "maxIndividualMass": 5000000,
+            "massRegeneration": "Regenerates over time",
+            "classification": 1,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "E175",
+            "leadsTo": "Class 4 W-Space",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 4,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "E545",
+            "leadsTo": "Nullsec (0.0)",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 9,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "G009",
+            "leadsTo": "Class 6 W-Space",
+            "totalMassAllowed": "Unknown",
+            "maxIndividualMass": 5000000,
+            "massRegeneration": "Regenerates over time",
+            "classification": 1,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "G024",
+            "leadsTo": "Class 2 W-Space",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 2,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "H121",
+            "leadsTo": "Class 1 W-Space",
+            "totalMassAllowed": 500000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 1,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "H296",
+            "leadsTo": "Class 5 W-Space",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 1350000000,
+            "massRegeneration": 0,
+            "classification": 5,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "H900",
+            "leadsTo": "Class 5 W-Space",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 5,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "I182",
+            "leadsTo": "Class 2 W-Space",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 2,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "J244",
+            "leadsTo": "Lowsec",
+            "totalMassAllowed": 1000000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 8,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "K329",
+            "leadsTo": "Nullsec (0.0)",
+            "totalMassAllowed": 5000000000,
+            "maxIndividualMass": 1800000000,
+            "massRegeneration": 500000000,
+            "classification": 9,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "K346",
+            "leadsTo": "Nullsec (0.0)",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 9,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "L005",
+            "leadsTo": "Class 2 W-Space",
+            "totalMassAllowed": "Unknown",
+            "maxIndividualMass": 5000000,
+            "massRegeneration": "Regenerates over time",
+            "classification": 1,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "L477",
+            "leadsTo": "Class 3 W-Space",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 3,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "L614",
+            "leadsTo": "Class 5 W-Space",
+            "totalMassAllowed": 1000000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 5,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "M006",
+            "leadsTo": "Class 4 W-Space",
+            "totalMassAllowed": "Unknown",
+            "maxIndividualMass": 5000000,
+            "massRegeneration": "Regenerates over time",
+            "classification": 1,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "M267",
+            "leadsTo": "Class 3 W-Space",
+            "totalMassAllowed": 1000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 3,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "M555",
+            "leadsTo": "Class 5 W-Space",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 1000000000,
+            "massRegeneration": 0,
+            "classification": 5,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "M609",
+            "leadsTo": "Class 4 W-Space",
+            "totalMassAllowed": 1000000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 4,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "N062",
+            "leadsTo": "Class 5 W-Space",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 5,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "N110",
+            "leadsTo": "Highsec",
+            "totalMassAllowed": 1000000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 7,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "N290",
+            "leadsTo": "Lowsec",
+            "totalMassAllowed": 5000000000,
+            "maxIndividualMass": 1800000000,
+            "massRegeneration": 500000000,
+            "classification": 8,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "N432",
+            "leadsTo": "Class 5 W-Space",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 1350000000,
+            "massRegeneration": 0,
+            "classification": 5,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "N766",
+            "leadsTo": "Class 2 W-Space",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 2,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "N770",
+            "leadsTo": "Class 5 W-Space",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 5,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "N944",
+            "leadsTo": "Lowsec",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 1350000000,
+            "massRegeneration": 0,
+            "classification": 8,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "N968",
+            "leadsTo": "Class 3 W-Space",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 3,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "O128",
+            "leadsTo": "Class 4 W-Space",
+            "totalMassAllowed": 1000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 100000000,
+            "classification": 4,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "O477",
+            "leadsTo": "Class 3 W-Space",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 3,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "O883",
+            "leadsTo": "Class 3 W-Space",
+            "totalMassAllowed": 1000000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 3,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "P060",
+            "leadsTo": "Class 1 W-Space",
+            "totalMassAllowed": 500000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 1,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "Q003",
+            "leadsTo": "Nullsec",
+            "totalMassAllowed": "Unknown",
+            "maxIndividualMass": 5000000,
+            "massRegeneration": "Regenerates over time",
+            "classification": 1,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "Q317",
+            "leadsTo": "Class 1 W-Space",
+            "totalMassAllowed": 500000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 1,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "R051",
+            "leadsTo": "Lowsec",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 1000000000,
+            "massRegeneration": 0,
+            "classification": 8,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "R474",
+            "leadsTo": "Class 6 W-Space",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 6,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "R943",
+            "leadsTo": "Class 2 W-Space",
+            "totalMassAllowed": 750000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 2,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "S047",
+            "leadsTo": "Highsec",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 7,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "S199",
+            "leadsTo": "Nullsec (0.0)",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 1350000000,
+            "massRegeneration": 0,
+            "classification": 9,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "S804",
+            "leadsTo": "Class 6 W-Space",
+            "totalMassAllowed": 1000000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 6,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "T405",
+            "leadsTo": "Class 4 W-Space",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 4,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "U210",
+            "leadsTo": "Lowsec",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 8,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "U319",
+            "leadsTo": "Class 6 W-Space",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 1800000000,
+            "massRegeneration": 500000000,
+            "classification": 6,
+            "maxStableTime": 48
+        },
+        {
+            "wormholeType": "U574",
+            "leadsTo": "Class 6 W-Space",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 6,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "V283",
+            "leadsTo": "Nullsec (0.0)",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 1000000000,
+            "massRegeneration": 0,
+            "classification": 9,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "V301",
+            "leadsTo": "Class 1 W-Space",
+            "totalMassAllowed": 500000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 1,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "V753",
+            "leadsTo": "Class 6 W-Space",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 1350000000,
+            "massRegeneration": 0,
+            "classification": 6,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "V911",
+            "leadsTo": "Class 5 W-Space",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 1350000000,
+            "massRegeneration": 0,
+            "classification": 5,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "W237",
+            "leadsTo": "Class 6 W-Space",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 1350000000,
+            "massRegeneration": 0,
+            "classification": 6,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "X702",
+            "leadsTo": "Class 3 W-Space",
+            "totalMassAllowed": 1000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 3,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "X877",
+            "leadsTo": "Class 4 W-Space",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 4,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "Y683",
+            "leadsTo": "Class 4 W-Space",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 4,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "Y790",
+            "leadsTo": "Class 1 W-Space",
+            "totalMassAllowed": 500000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 1,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "Z006",
+            "leadsTo": "Class 3 W-Space",
+            "totalMassAllowed": "Unknown",
+            "maxIndividualMass": 5000000,
+            "massRegeneration": "Regenerates over time",
+            "classification": 1,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "Z060",
+            "leadsTo": "Nullsec (0.0)",
+            "totalMassAllowed": 1000000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 9,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "Z142",
+            "leadsTo": "Nullsec (0.0)",
+            "totalMassAllowed": 3000000000,
+            "maxIndividualMass": 1350000000,
+            "massRegeneration": 0,
+            "classification": 9,
+            "maxStableTime": 24
+        },
+        {
+            "wormholeType": "Z457",
+            "leadsTo": "Class 4 W-Space",
+            "totalMassAllowed": 2000000000,
+            "maxIndividualMass": 300000000,
+            "massRegeneration": 0,
+            "classification": 4,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "Z647",
+            "leadsTo": "Class 1 W-Space",
+            "totalMassAllowed": 500000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 1,
+            "maxStableTime": 16
+        },
+        {
+            "wormholeType": "Z971",
+            "leadsTo": "Class 1 W-Space",
+            "totalMassAllowed": 100000000,
+            "maxIndividualMass": 20000000,
+            "massRegeneration": 0,
+            "classification": 1,
+            "maxStableTime": 16
+        }
+    ]
+}
